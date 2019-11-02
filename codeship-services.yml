@@ -1,0 +1,6 @@
+calculate:
+  build:
+    image: calculate
+    dockerfile: Dockerfile
+
+    # หรือเขียนสั้นๆว่า build.
