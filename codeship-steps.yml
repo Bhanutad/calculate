@@ -1,3 +1,3 @@
 - name: test
-service: calculate #ชื่อเซอวิส ที่เหมือนในcodeship service
-command: npm test
+  service: calculate #ชื่อเซอวิส ที่เหมือนในcodeship service
+  command: npm test
